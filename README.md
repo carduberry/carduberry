@@ -1,7 +1,7 @@
 # Welcome to CArduBerry
 
 ### What is CArduBerry?
-Simply head to (carduberry.github.io/carduberry http://carduberry.github.io/carduberry) for further information
+Simply head to [carduberry.github.io/carduberry](http://carduberry.github.io/carduberry) for further information
 
 ### You are interested and you want to know how we built it?
 #### First of all, we used:
