@@ -2,7 +2,7 @@
 
 ### What is CArduBerry?
 <img src="https://carduberry.github.io/carduberry/img/logo.png" width="300px"/>
-Simply head to [carduberry.github.io/carduberry](http://carduberry.github.io/carduberry) for further information
+Simply head to <a href="http://carduberry.github.io/carduberry">carduberry.github.io/carduberry</a> for further information
 
 ### You are interested and you want to know how we built it?
 #### First of all, we used:
