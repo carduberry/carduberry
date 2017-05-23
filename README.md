@@ -1,7 +1,7 @@
 # Welcome to CArduBerry
 
 ### What is CArduBerry?
-![Logo](https://carduberry.github.io/carduberry/img/logo.png)
+![Logo](https://carduberry.github.io/carduberry/img/logo.png | width=200)
 Simply head to [carduberry.github.io/carduberry](http://carduberry.github.io/carduberry) for further information
 
 ### You are interested and you want to know how we built it?
