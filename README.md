@@ -16,12 +16,17 @@ Simply head to (carduberry.github.io/carduberry http://carduberry.github.io/card
 * Insulating tape
 * USB Type-A to Type-B cable
 * USB Type-A to Micro-USB cable
+
 You will also need a Google Cloud Platform account (you can use their free trial but you must have a credit card)
 
 
 #### Code
 ##### Raspberry
-At first we installed every library we needed (like Google Cloud Platform, picamera ...) then set the raspberry pi hostname to cardubbery so we could access SSH by typing carduberry.local (avahi daemon on the pi and Apple's Bounjour on Windows devices)
+At first we installed every library we needed (like Google Cloud Platform, picamera ...) then set the raspberry pi hostname to cardubbery so we could access SSH by typing carduberry.local (avahi daemon on the pi and Apple's Bounjour on Windows devices).
+
 For the Raspberry we decided to use Python as our main language.
+
 We used Flask as a web server and made a "video streaming" page thanks to this tutorial: link
-After that, using Google Cloud Platform's Python libraries we made the code in charge of sending requests to Google Cloud Vision API every second. When we get a response from Google, the code decides if the car should stop at the signage or not sending a value to Arduino via serial communication
+After that, using Google Cloud Platform's Python libraries we made the code in charge of sending requests to Google Cloud Vision API every second. 
+
+When we get a response from Google, the code decides if the car should stop at the signage or not sending a value to Arduino via serial communication
