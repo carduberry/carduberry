@@ -21,7 +21,7 @@ Simply head to <a href="http://carduberry.github.io/carduberry">carduberry.githu
 You will also need a Google Cloud Platform account (you can use their free trial but you must have a credit card)
 
 #### Wiring
-Motors:
+Motors (use an external power source for DC motors):
 
 <img src="https://carduberry.github.io/carduberry/img/tesina_bb_motori.svg" width="800px"/>
 Sensors:
