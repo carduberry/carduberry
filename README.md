@@ -20,6 +20,11 @@ Simply head to <a href="http://carduberry.github.io/carduberry">carduberry.githu
 
 You will also need a Google Cloud Platform account (you can use their free trial but you must have a credit card)
 
+#### Wiring
+Motors:
+<img src="https://carduberry.github.io/carduberry/img/tesina_bb_motori.svg" width="300px"/>
+Sensors:
+<img src="https://carduberry.github.io/carduberry/img/tesina_bb_sensori.svg" width="300px"/>
 
 #### Code
 ##### Raspberry
