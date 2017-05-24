@@ -22,9 +22,11 @@ You will also need a Google Cloud Platform account (you can use their free trial
 
 #### Wiring
 Motors:
-<img src="https://carduberry.github.io/carduberry/img/tesina_bb_motori.svg" width="300px"/>
+
+<img src="https://carduberry.github.io/carduberry/img/tesina_bb_motori.svg" width="800px"/>
 Sensors:
-<img src="https://carduberry.github.io/carduberry/img/tesina_bb_sensori.svg" width="300px"/>
+
+<img src="https://carduberry.github.io/carduberry/img/tesina_bb_sensori.svg" width="800px"/>
 
 #### Code
 ##### Raspberry
